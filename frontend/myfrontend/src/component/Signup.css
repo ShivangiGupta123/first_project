@@ -1,0 +1,59 @@
+.form1{
+    background-color: rgb(4, 4, 59);
+    color:white;
+   
+    margin-left: 330px;
+    margin-right: 300px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    height:600px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.form1 input{
+    width: 90%;
+    padding: 10px 10px 10px 10px;
+    margin: 15px 0px 30px 0px;
+    box-shadow: 10px 10px 10px black;
+    
+}
+.button1{
+    height: 50px;
+  width: 100px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(5, 201, 64);
+  font-size: 20px;
+  border:none;
+}
+.button button:hover{
+    background-color: rgb(5, 228, 5);
+    height: 53px;
+}
+body{
+    background-image: url('./images/image1.jpeg');
+}
+.form2{
+    padding-top: 100px;
+    height:100px
+}
+.form2 input{
+    width: 90%;
+    padding: 10px 10px 10px 10px;
+    margin: 15px 0px 30px 0px;
+    box-shadow: 10px 10px 10px black;
+    
+}
+.form2{
+    background-color: rgb(4, 4, 59);
+    color:white;
+    margin-left: 330px;
+    margin-right: 300px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    height:450px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
